@@ -1,6 +1,6 @@
 # Visualization in R
 
-This repository contains solutions to a set of visualization problems using ggplot2, a powerful data visualization package in R. The dataset used cointens a wide variety of cars and their different specifications.
+This repository contains solutions to a set of visualization problems using ggplot2, a powerful data visualization package in R. The dataset used contains a wide variety of cars and their different specifications.
 
 ## Overview
 
